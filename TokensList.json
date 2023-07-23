@@ -30,6 +30,22 @@
       "logoURI": "https://i.imgur.com/Eulbtw5.png"
     },
     {
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "address": "0xbA2aE424d960c26247Dd6c32edC70B295c744C43",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/74.png"
+    },
+    {
+      "name": "PAX GOLD",
+      "symbol": "PAXG",
+      "address": "0x7950865a9140cB519342433146Ed5b40c6F210f7",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/4705.png"
+    },
+    {
       "name": "Bouta Coin",
       "symbol": "DDB",
       "address": "0xa401a099b1C643DE506B49C6A954F4432Aa6B7cE",
